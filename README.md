@@ -1,10 +1,14 @@
 👋 Hi, I'm Raghava Thyagaraj
+
 🎓 Master’s student in Computer Science at Pace University, NYC
+
 🌏 Born in South India, now building my future with data & code in the Big Apple 🗽
+
 💼 Aspiring Data Engineer : 
       I don’t just work with data—I engineer trust, structure, and speed into it.
       My passion lies in transforming raw, chaotic data into clean pipelines that businesses can rely on. 
       Whether it's batch processing, streaming, or automating ETL, I love every step of it.
+      
 🧰 Tech Toolbox:
 PySpark · SQL · Azure · Databricks · Kafka · Airflow · Pandas · Git
 
