@@ -27,7 +27,6 @@ Side passion: teaching tech to beginners & simplifying complex topics 🧠
 🔍 Looking for:
 📌 Internship or entry-level roles in Data Engineering or Cloud Data Platforms
 🤝 Collaborations on open-source or portfolio projects
-projects
 
 📬 Let’s Connect:
 Linked in : linkedin.com/in/thyagaraj-3b199819c
